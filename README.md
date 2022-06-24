@@ -1,2 +1,1 @@
-# pfa
-Personal Finance Analytics
+# Personal Finance Analytics
